@@ -16,5 +16,14 @@
     "uploadDate": "12/4/2024, 8:42:55 AM",
     "userEmail": "22btcse06@suiit.ac.in",
     "userName": "AMRESH"
+  },
+  {
+    "bookName": "DBMS Thoery Notes on Advanced Databases",
+    "author": "Pradyumna Ratha",
+    "fileName": "DBMS Thoery Notes on Advanced Databases.pdf",
+    "fileUrl": "https://raw.githubusercontent.com/amreshbhuya/server/main/book-files/DBMS Thoery Notes on Advanced Databases.pdf",
+    "uploadDate": "12/4/2024, 8:43:43 AM",
+    "userEmail": "22btcse06@suiit.ac.in",
+    "userName": "AMRESH"
   }
 ]
