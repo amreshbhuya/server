@@ -40,5 +40,11 @@
     "author": "Thomas Johnson",
     "image": "https://m.media-amazon.com/images/I/5161-7Fgd8L._SX342_SY445_.jpg",
     "link": "./login"
+  },
+  {
+    "bookName": "Computer System Architect",
+    "author": "...",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://snatchbooks.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/10/Computer-System-Architecture-300x360.jpg.webp",
+    "link": "./login"
   }
 ]
