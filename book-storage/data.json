@@ -22,5 +22,11 @@
     "author": "Thomas Johnson",
     "image": "https://m.media-amazon.com/images/I/5161-7Fgd8L._SX342_SY445_.jpg",
     "link": "./login"
+  },
+  {
+    "bookName": "A complete introduction to computer science in one book",
+    "author": " Thomas Johnson",
+    "image": "https://m.media-amazon.com/images/I/5161-7Fgd8L._SX342_SY445_.jpg",
+    "link": "./login"
   }
 ]
