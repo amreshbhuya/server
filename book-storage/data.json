@@ -28,5 +28,11 @@
     "author": "by ROSENBERG (Author)",
     "image": "https://m.media-amazon.com/images/I/41p2RIobNXL.jpg",
     "link": "./login"
+  },
+  {
+    "bookName": "Textbook Of Electrical Technology In Si Units Vol2 Ac & Dc Machines",
+    "author": "by Bl Theraja, Ak Theraja (Author), S Chand & Company Pvt Ltd - He (Publisher)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5SG3ON9yuwo5pVmSE5mmV2bKs2LL4bIbcA&s",
+    "link": "./login"
   }
 ]
