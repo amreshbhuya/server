@@ -1,17 +1,5 @@
 [
   {
-    "bookName": "Computer System Architect",
-    "author": "...",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://snatchbooks.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/10/Computer-System-Architecture-300x360.jpg.webp",
-    "link": "./login"
-  },
-  {
-    "bookName": "Computer System Architect",
-    "author": "...",
-    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://snatchbooks.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/10/Computer-System-Architecture-300x360.jpg.webp",
-    "link": "./login"
-  },
-  {
     "bookName": "Clean Code: A Handbook ...",
     "author": "...",
     "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://snatchbooks.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/06/Clean-Code-300x360.jpg.webp",
