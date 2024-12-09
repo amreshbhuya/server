@@ -25,14 +25,5 @@
     "uploadDate": "12/4/2024, 8:43:43 AM",
     "userEmail": "22btcse06@suiit.ac.in",
     "userName": "AMRESH"
-  },
-  {
-    "bookName": "Test",
-    "author": "hello",
-    "fileName": "",
-    "fileUrl": "http://example.com",
-    "uploadDate": "12/9/2024, 7:15:54 AM",
-    "userEmail": "hello_there@suiit.ac.in",
-    "userName": null
   }
 ]
