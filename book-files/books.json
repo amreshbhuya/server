@@ -25,5 +25,14 @@
     "uploadDate": "12/4/2024, 8:43:43 AM",
     "userEmail": "22btcse06@suiit.ac.in",
     "userName": "AMRESH"
+  },
+  {
+    "bookName": "Demo",
+    "author": "Demo",
+    "fileName": "",
+    "fileUrl": "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/amreshbhuya/server/main/book-files/DBMS_Lab_Manual.pdf",
+    "uploadDate": "21/12/2024, 03:05:38",
+    "userEmail": "22btcse06@suiit.ac.in",
+    "userName": "AMRESH"
   }
 ]
