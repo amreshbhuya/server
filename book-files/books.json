@@ -52,14 +52,5 @@
     "uploadDate": "12/21/2024, 2:12:12 PM",
     "userEmail": "tester@suiit.ac.in",
     "userName": "Tester SUIIT"
-  },
-  {
-    "bookName": "s",
-    "author": "y",
-    "fileName": "",
-    "fileUrl": "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/amreshbhuya/server/main/book-files/an-introduction-to-formal-languages-and-automata-5th-edition-2011.pdf",
-    "uploadDate": "12/21/2024, 2:13:56 PM",
-    "userEmail": "tester@suiit.ac.in",
-    "userName": "Tester SUIIT"
   }
 ]
